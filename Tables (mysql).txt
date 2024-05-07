@@ -2,6 +2,7 @@ EXAMPLE DATA
 
 
 PRODUCTS TABLE 
+product_id(PK)
 +------------+--------------+-------+
 | product_id | product_name | price |
 +------------+--------------+-------+
@@ -12,6 +13,7 @@ PRODUCTS TABLE
 
 
 ORDERS TABLE
+FK to Product.product_id
 +----------+------------+
 | order_id | product_id | 
 +----------+------------+
