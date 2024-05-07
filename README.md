@@ -3,5 +3,5 @@
 How to run E-commerce platform backend 
 
 1) Download assignment.py
-2) Refer and download requirements.txt to import necessary libraries 
+2) Install dependencies
 3) Run assignment.py
