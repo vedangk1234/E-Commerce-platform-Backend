@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask_Cors==4.0.1
+Flask_MySQLdb==2.0.0
+Flask_RESTful==0.3.10
+MySQL-python==1.2.5
+mysql_connector_repackaged==0.3.1
+python-dotenv==1.0.1
